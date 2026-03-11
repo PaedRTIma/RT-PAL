@@ -41,8 +41,6 @@ Dr Catarina Veiga
 
 Associate Professor, [Paediatric Radiotherapy & Imaging (PRIma) Group](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/research/research-groups/paediatric-radiotherapy-and-imaging-group-prima)
 
-Centre for Medical Image Computing
-
 Department of Medical Physics & Biomedical Engineering
 
 8th floor, Male Place Engineering Building, Malet Place, London WC1E 6BT
